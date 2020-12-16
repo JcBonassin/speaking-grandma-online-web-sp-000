@@ -1,4 +1,3 @@
-phrase = gets.chomp
 def speak_to_grandma(phrase)
   if phrase.upcase == false
     puts "HUH?! SPEAK UP, SONNY!"
