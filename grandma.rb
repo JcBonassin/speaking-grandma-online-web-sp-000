@@ -2,14 +2,12 @@ phrase = gets.chomp
 def speak_to_grandma(phrase)
   if phrase.upcase == false
     puts "HUH?! SPEAK UP, SONNY!"
-  elsif
-    if phrase.upcase == true
-      puts "NO, NOT SINCE 1938!"
-    end
-  end
+  else puts "NO, NOT SINCE 1938!"
+  end 
 end
+  
 
-    
+      
 
 
 
